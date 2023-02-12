@@ -6,7 +6,7 @@ To use this tool simply fill out the data in the `config.json` and run the .exe 
 
 ```json
 {
-    "osu!.db path" : "C:/Users/[your user]/AppData/Local/osu!/osu!.db", //Path to your osu!.db file which in most should be in your AppData folder, so just change it to fit your user
+    "osu!.db path" : "C:/Users/[your user]/AppData/Local/osu!/osu!.db", //Path to your osu!.db file which in most cases should be in your AppData folder, so just change it to fit your user
     ".mmdb path" : "Recommendations.mmdb", //Path to the .mmdb file you want to convert/download. If the file is in the same directory as the .exe and json you just need to change the name, otherwise put the absolute path here.
     "download path" : "C:/Users/[your user]/AppData/Local/osu!/Songs/", //Where you want to download the maps to. If left blank ("") They will be put in this directory.
     "download" : true, //If you want to download missing maps or not
