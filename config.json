@@ -1,7 +1,7 @@
 {
-    "osu!.db path" : "C:/Users/Strah/AppData/Local/osu!/osu!.db",
-    ".mmdb path" : "Recommendations.mmdb",
-    "download path" : "C:/Users/Strah/AppData/Local/osu!/Songs/",
+    "osu!.db path" : "C:/Users/[your user]/AppData/Local/osu!/osu!.db",
+    ".mmdb path" : "[path to your .mmdb file]",
+    "download path" : "C:/Users/[your user]/AppData/Local/osu!/Songs/",
     "download" : true,
     "convert" : true
 }
